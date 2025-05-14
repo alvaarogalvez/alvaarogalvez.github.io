@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>datadiego</title>
+	<title>alvariko</title>
 	<subtitle>Subtitle. Update me.</subtitle>
 	
 	<link href="https://update-me.com/feed/feed.xml" rel="self"/>
@@ -8,7 +8,7 @@
 	<updated>2025-05-14T00:00:00+00:00</updated>
 	<id>https://update-me.com</id>
 	<author>
-		<name>@datadiego</name>
+		<name>@alvaarogalvez</name>
 		<email></email>
 	</author>
 	
